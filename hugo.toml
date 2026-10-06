@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'edmccard'
-theme = 'Archie'
+theme = ['github.com/athul/archie']
